@@ -275,8 +275,9 @@ git fetch
 
 # Ardından bu kodla devam ediyoruz:
 ```
-git checkout 0f81dca95a55f975b6e54fe6f311a71792e21698
+git checkout c1b047b8187accbf6bd16539feb7bb60185bdc388
 ```
+## yukardaki git checkout kodu 30.07.22 tarihinde guncellenmistir. Not: Node u calistirdiktan sonra BAD BLOCK hatasi aliyorsaniz, data klasoru icerigini, genesis dosyasini ve config dosyasini silip yukaridaki komut ile beraber tekrar yuklemeniz gerekmektedir. 
 
 # Şimdi ise klonladığımız `nearcore`'u çalıştıracağız, bu kodun çalışması biraz uzun sürebilir:
 ```
